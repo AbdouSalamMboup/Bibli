@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "czcbzVoyEIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a944187\\OneDrive - ATOS\\Bureau\\Biblio\\bibli\\bibli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a944187\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\a944187\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
